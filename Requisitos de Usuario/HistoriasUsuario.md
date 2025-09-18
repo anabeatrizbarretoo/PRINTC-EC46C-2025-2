@@ -1,50 +1,5 @@
 # 1. História de Usuário
 
-A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas. 
+A Tabela 5 a seguir contém as Histórias de Usuárias elicitadas. 
 
-<table>
-    <thead>
-        <tr style="background-color: purple; color: white" >
-            <th style="border-style:solid;border-width:1px;text-align:center">ID</th>
-            <th style="border-style:solid;border-width:1px;text-align:center">História de Usuário</th>
-            <th style="border-style:solid;border-width:1px;text-align:center">Critérios de aceitação</th>
-            <th style="border-style:solid;border-width:1px;text-align:center">Prioridade</th>
-            <th style="border-style:solid;border-width:1px;text-align:center">RF/RNF relacionado</th>
-            <th style="border-style:solid;border-width:1px;text-align:center">Story Points</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US01</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero poder assitir vídeos para meu entreterimento</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao entrar no aplicativo o vídeo já deve aparecer na página inicial</li><li> A tela do vídeo deve estar maximizada na tela do celular</li><li>Os vídeos devem aparecer em sequência</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF07</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">13</td>
-        </tr>
-        <tr>
-            <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US02</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, desejo ter um perfil para interagir com outros na plataforma</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes</li><li> O perfil pode ser privado ou público</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> Baixa </td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">2</td>
-        </tr>
-        <tr>
-            <span id="ustory-01"></span>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário regular, desejo acessar os outros perfis existentes para ver o conteúdo deles</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes aos visitantes</li><li> Os vídeos postados devem aparecer ao entrar no perfil para que seja possível seu acesso</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
-        </tr>
-</table>
-
-<div style="text-align: center">
-<p>Tabela 3: História de Usuário</p>
-</div>
-
-## 5. Referências bibliográficas
+<table> <thead> <tr style="background-color: purple; color: white"> <th style="border:1px solid;text-align:center">ID</th> <th style="border:1px solid;text-align:center">História de Usuário</th> <th style="border:1px solid;text-align:center">Critérios de aceitação</th> <th style="border:1px solid;text-align:center">Prioridade</th> <th style="border:1px solid;text-align:center">RF/RNF relacionado</th> <th style="border:1px solid;text-align:center">Story Points</th> </tr> </thead> <tbody> <tr> <td style="border:1px solid;text-align:center">US01</td> <td style="border:1px solid;text-align:left">Como usuário comum, eu quero assistir a vídeo aulas organizadas por nível de dificuldade para que eu possa aprender C de forma progressiva.</td> <td style="border:1px solid;text-align:left"> <ol> <li>Seção de vídeo aulas categorizada por níveis (iniciante, intermediário, avançado).</li> <li>Filtro por nível de dificuldade.</li> <li>Exibição de título, descrição e duração do vídeo.</li> <li>Reprodução no próprio site (sem redirecionamento obrigatório).</li> </ol> </td> <td style="border:1px solid;text-align:center">Alta</td> <td style="border:1px solid;text-align:center">RF01</td> <td style="border:1px solid;text-align:center">8</td> </tr> <tr> <td style="border:1px solid;text-align:center">US02</td> <td style="border:1px solid;text-align:left">Como usuário comum, eu quero acessar exercícios interativos após as vídeo aulas para fixar o conteúdo aprendido.</td> <td style="border:1px solid;text-align:left"> <ol> <li>Cada vídeo aula deve ter exercícios relacionados.</li> <li>Exercícios com feedback automático.</li> <li>Progresso do usuário deve ser salvo.</li> <li>Pelo menos três tipos de exercícios: múltipla escolha, preenchimento de código, verdadeiro/falso.</li> </ol> </td> <td style="border:1px solid;text-align:center">Alta</td> <td style="border:1px solid;text-align:center">RF02</td> <td style="border:1px solid;text-align:center">13</td> </tr> <tr> <td style="border:1px solid;text-align:center">US03</td> <td style="border:1px solid;text-align:left">Como usuário acadêmico, eu quero baixar material de apoio em PDF para estudar offline e revisar o conteúdo.</td> <td style="border:1px solid;text-align:left"> <ol> <li>Cada módulo/aula deve ter botão para download em PDF.</li> <li>PDF deve conter exemplos de código e estar bem formatado.</li> <li>Download deve ser acessível em dispositivos móveis.</li> </ol> </td> <td style="border:1px solid;text-align:center">Média</td> <td style="border:1px solid;text-align:center">RF03</td> <td style="border:1px solid;text-align:center">5</td> </tr> <tr> <td style="border:1px solid;text-align:center">US04</td> <td style="border:1px solid;text-align:left">Como usuário acadêmico, eu quero desenvolver um projeto final sugerido pelo site para aplicar os conhecimentos adquiridos.</td> <td style="border:1px solid;text-align:left"> <ol> <li>Disponibilizar pelo menos um projeto com requisitos e dicas.</li> <li>Possibilidade de envio por upload ou GitHub.</li> <li>Confirmação do envio e feedback.</li> <li>Exemplos de projetos anteriores (se aplicável).</li> </ol> </td> <td style="border:1px solid;text-align:center">Alta</td> <td style="border:1px solid;text-align:center">RF04</td> <td style="border:1px solid;text-align:center">8</td> </tr> <tr> <td style="border:1px solid;text-align:center">US05</td> <td style="border:1px solid;text-align:left">Como usuário de teste (professor), eu quero simular o uso do site por um aluno para avaliar a usabilidade e qualidade do conteúdo.</td> <td style="border:1px solid;text-align:left"> <ol> <li>Perfil de teste deve permitir simular diferentes perfis de usuário.</li> <li>Navegação completa sem restrições.</li> <li>Formulário exclusivo para feedback de professores/testadores.</li> <li>Sistema deve registrar e relatar problemas técnicos ou sugestões.</li> </ol> </td> <td style="border:1px solid;text-align:center">Média</td> <td style="border:1px solid;text-align:center">RNF01</td> <td style="border:1px solid;text-align:center">3</td> </tr> </tbody> </table> <div style="text-align: center"> <p><b>Tabela 3:</b> Histórias de Usuário</p> </div>
