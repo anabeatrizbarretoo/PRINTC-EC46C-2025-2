@@ -1,6 +1,5 @@
-# 1. História de Usuário
-
-A Tabela a seguir contém as Histórias de Usuárias elicitadas. 
+<h2>1. História de Usuário</h2>
+<p>A Tabela a seguir contém as Histórias de Usuário elicitadas.</p>
 
 <table>
     <thead>
@@ -94,6 +93,8 @@ A Tabela a seguir contém as Histórias de Usuárias elicitadas.
                 <ol>
                     <li>Perfil de teste que permita simular diferentes tipos de usuário.</li>
                     <li>Navegação completa sem restrições.</li>
+                    <li>Formulário ou sistema exclusivo para feedback de professores/testadores.</li>
+                    <li>Registro e relatório de problemas técnicos ou sugestões enviadas.</li>
                 </ol>
             </td>
             <td style="border:1px solid; text-align:center">Média</td>
@@ -102,7 +103,3 @@ A Tabela a seguir contém as Histórias de Usuárias elicitadas.
         </tr>
     </tbody>
 </table>
-
-<div style="text-align:center">
-    <p><b>Tabela 3:</b> Histórias de Usuário (IDs padronizados)</p>
-</div>
