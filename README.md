@@ -23,15 +23,15 @@ O site foi desenvolvido para ser um ponto de partida amigável para quem deseja 
 ## 📂 Conteúdo do Repositório
 
 * 📘 **Requisitos Funcionais** — documentação com as principais funcionalidades planejadas e implementadas.
-* (Adicione aqui outras seções conforme forem sendo incluídas: protótipos, código-fonte, relatórios, etc.)
+* 
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
 * HTML5, CSS3 e JavaScript
-* (Adicione outras, como frameworks ou ferramentas, se houver)
+* 
 
 ---
 
-> “Aprender C é o primeiro passo para entender o que acontece por trás de toda grande linguagem de programação — e o ImprimirC está aqui para tornar esse começo mais leve e divertido.”
+> “Aprender C é o primeiro passo para entender o que acontece por trás de toda grande linguagem de programação — e o PrintC está aqui para tornar esse começo mais leve e divertido.”
