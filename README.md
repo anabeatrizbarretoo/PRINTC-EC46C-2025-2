@@ -1,23 +1,37 @@
-PrintC
+# 💻 PrintC
 
-a. PrintC
+### 🧩 Desenvolvimento Ágil — 2025 / 2º semestre
 
-b. Desenvolvimento Ágil, 2025, 2º semestre.
+**Integrantes:**
 
-c. Integrantes:
+* Ana Beatriz Barreto Teixeira
+* Bruna Kaori Takuti
+* Daniel Durante Francisco Dias
+* Maxine Lourenço da Silva
+* Rayssa da Silva Esparza Okamura
 
-    Ana Beatriz Barreto Teixeira
+---
 
-    Bruna Kaori Takuti
+## 🎯 Objetivo do Projeto
 
-    Daniel Durante Francisco Dias
+O **ImprimirC** tem como propósito auxiliar iniciantes a compreenderem os **conceitos fundamentais da linguagem C**, de forma simples, interativa e acessível.
 
-    Maxine Lourenço da Silva
+O site foi desenvolvido para ser um ponto de partida amigável para quem deseja começar sua jornada na **programação em C99**, oferecendo explicações claras, exemplos práticos e uma navegação intuitiva.
 
-    Rayssa da Silva Esparza Okamura
+---
 
-d. O presente trabalho tem como objetivo a confecção de um site que ensine ao usuário conceitos básicos de programação em linguagem C. O público alvo é, portanto, o usuário que tem interesse em iniciar os aprendizados em programação na linguagem C99.
+## 📂 Conteúdo do Repositório
 
-e. Documentos do repositório:
+* 📘 **Requisitos Funcionais** — documentação com as principais funcionalidades planejadas e implementadas.
+* (Adicione aqui outras seções conforme forem sendo incluídas: protótipos, código-fonte, relatórios, etc.)
 
-Requisitos Funcionais
+---
+
+## 🚀 Tecnologias Utilizadas
+
+* HTML5, CSS3 e JavaScript
+* (Adicione outras, como frameworks ou ferramentas, se houver)
+
+---
+
+> “Aprender C é o primeiro passo para entender o que acontece por trás de toda grande linguagem de programação — e o ImprimirC está aqui para tornar esse começo mais leve e divertido.”
