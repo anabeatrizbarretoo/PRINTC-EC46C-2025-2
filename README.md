@@ -14,7 +14,7 @@
 
 ## 🎯 Objetivo do Projeto
 
-O **ImprimirC** tem como propósito auxiliar iniciantes a compreenderem os **conceitos fundamentais da linguagem C**, de forma simples, interativa e acessível.
+O **PrintC** tem como propósito auxiliar iniciantes a compreenderem os **conceitos fundamentais da linguagem C**, de forma simples, interativa e acessível.
 
 O site foi desenvolvido para ser um ponto de partida amigável para quem deseja começar sua jornada na **programação em C99**, oferecendo explicações claras, exemplos práticos e uma navegação intuitiva.
 
@@ -23,7 +23,7 @@ O site foi desenvolvido para ser um ponto de partida amigável para quem deseja 
 ## 📂 Conteúdo do Repositório
 
 * 📘 **Requisitos Funcionais** — documentação com as principais funcionalidades planejadas e implementadas.
-* 
+
 
 ---
 
