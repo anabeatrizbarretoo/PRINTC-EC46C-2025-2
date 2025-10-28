@@ -15,22 +15,23 @@
 ## 🎯 Objetivo do Projeto
 
 O **PrintC** tem como propósito auxiliar iniciantes a compreenderem os **conceitos fundamentais da linguagem C**, de forma simples, interativa e acessível.
+O projeto foi desenvolvido como um Recurso Educacional Aberto (REA) para a disciplina de Fundamentos da Programação.O objetivo é tornar o processo de aprendizado da linguagem C mais acessível, interativo e lúdico, facilitando a compreensão dos conceitos básicos da programação para iniciantes.
 
-O site foi desenvolvido para ser um ponto de partida amigável para quem deseja começar sua jornada na **programação em C99**, oferecendo explicações claras, exemplos práticos e uma navegação intuitiva.
+O site apresenta os conteúdos de forma modular, cobrindo desde os conceitos mais básicos até a criação de funções e manipulação de dados mais complexos.
 
 ---
 
 ## 📂 Conteúdo do Repositório
 
 * 📘 **Requisitos Funcionais** — documentação com as principais funcionalidades planejadas e implementadas.
-
-
 ---
 
-## 🚀 Tecnologias Utilizadas
+✨ Tecnologias Utilizadas
+Este projeto foi construído utilizando as seguintes tecnologias:
 
-* HTML5, CSS3 e JavaScript
-* 
+HTML5: Para a estrutura semântica do conteúdo.
+CSS3: Para a estilização, layouts responsivos e animações.
+JavaScript: Para a interatividade do header dinâmico.
 
 ---
 
