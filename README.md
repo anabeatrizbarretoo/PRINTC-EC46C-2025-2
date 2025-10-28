@@ -30,7 +30,9 @@ O site apresenta os conteúdos de forma modular, cobrindo desde os conceitos mai
 Este projeto foi construído utilizando as seguintes tecnologias:
 
 HTML5: Para a estrutura semântica do conteúdo.
+
 CSS3: Para a estilização, layouts responsivos e animações.
+
 JavaScript: Para a interatividade do header dinâmico.
 
 ---
