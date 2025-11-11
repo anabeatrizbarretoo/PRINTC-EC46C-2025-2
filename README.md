@@ -4,18 +4,19 @@
 
 **Integrantes:**
 
-* Ana Beatriz Barreto Teixeira
-* Bruna Kaori Takuti
-* Daniel Durante Francisco Dias
-* Maxine Lourenço da Silva
-* Rayssa da Silva Esparza Okamura
+* Ana Beatriz Barreto Teixeira  
+* Bruna Kaori Takuti  
+* Daniel Durante Francisco Dias  
+* Maxine Lourenço da Silva  
+* Rayssa da Silva Esparza Okamura  
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-O **PrintC** tem como propósito auxiliar iniciantes a compreenderem os **conceitos fundamentais da linguagem C**, de forma simples, interativa e acessível.
-O projeto foi desenvolvido como um Recurso Educacional Aberto (REA) para a disciplina de Fundamentos da Programação.O objetivo é tornar o processo de aprendizado da linguagem C mais acessível, interativo e lúdico, facilitando a compreensão dos conceitos básicos da programação para iniciantes.
+O **PrintC** tem como propósito auxiliar iniciantes a compreenderem os **conceitos fundamentais da linguagem C**, de forma simples, interativa e acessível.  
+O projeto foi desenvolvido como um Recurso Educacional Aberto (REA) para a disciplina de Fundamentos da Programação.  
+O objetivo é tornar o processo de aprendizado da linguagem C mais acessível, interativo e lúdico, facilitando a compreensão dos conceitos básicos da programação para iniciantes.
 
 O site apresenta os conteúdos de forma modular, cobrindo desde os conceitos mais básicos até a criação de funções e manipulação de dados mais complexos.
 
@@ -24,16 +25,22 @@ O site apresenta os conteúdos de forma modular, cobrindo desde os conceitos mai
 ## 📂 Conteúdo do Repositório
 
 * 📘 **Requisitos Funcionais** — documentação com as principais funcionalidades planejadas e implementadas.
+
 ---
 
-✨ Tecnologias Utilizadas
+## ✨ Tecnologias Utilizadas
+
 Este projeto foi construído utilizando as seguintes tecnologias:
 
-HTML5: Para a estrutura semântica do conteúdo.
+- **HTML5:** Para a estrutura semântica do conteúdo.  
+- **CSS3:** Para a estilização, layouts responsivos e animações.  
+- **JavaScript:** Para a interatividade do header dinâmico.  
 
-CSS3: Para a estilização, layouts responsivos e animações.
+---
 
-JavaScript: Para a interatividade do header dinâmico.
+## 🔗 Protótipo no Figma
+
+[Acesse o protótipo do PrintC no Figma](https://www.figma.com/proto/Y48MaB0d937VZQtVSIx0Mx/printc?node-id=1-2&t=HrbxRGoXGDAIelkk-1&starting-point-node-id=1%3A2)
 
 ---
 
