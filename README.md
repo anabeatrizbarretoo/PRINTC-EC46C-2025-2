@@ -2,18 +2,16 @@
 
 ### 🧩 Desenvolvimento Ágil — 2025 / 2º semestre
 
-**Integrantes:**
+### 👥 Integrantes
 
-* Ana Beatriz Barreto Teixeira
-  - GitHub: https://github.com/anabeatrizbarretot  
-* Bruna Kaori Takuti
-  - Github: https://github.com/tkaoribruna  
-* Daniel Durante Francisco Dias
-  - GitHub: https://github.com/Dandurant  
-* Maxine Lourenço da Silva
-  - GitHub: https://github.com/okumurashy  
-* Rayssa da Silva Esparza Okamura
-  - GitHub: https://github.com/rayssaokamura  
+| Nome | Foto | GitHub |
+|------|------|--------|
+| Ana Beatriz Barreto Teixeira | <img src="https://github.com/anabeatrizbarretot.png" width="125"/> | https://github.com/anabeatrizbarretot |
+| Bruna Kaori Takuti | <img src="https://github.com/tkaoribruna.png" width="125"/> | https://github.com/tkaoribruna |
+| Daniel Durante Francisco Dias | <img src="https://github.com/Dandurant.png" width="125"/> | https://github.com/Dandurant |
+| Maxine Lourenço da Silva | <img src="https://github.com/okamurashy.png" width="125"/> | https://github.com/okumurashy |
+| Rayssa da Silva Esparza Okamura | <img src="https://github.com/rayssaokamura.png" width="125"/> | https://github.com/rayssaokamura |
+
 
 ---
 
