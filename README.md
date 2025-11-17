@@ -13,6 +13,7 @@
 * Maxine Lourenço da Silva
   - GitHub: https://github.com/okumurashy  
 * Rayssa da Silva Esparza Okamura
+  - ![205248509](https://github.com/user-attachments/assets/dd88ced6-3d85-461c-b2e4-c52ae458e00c)
   - GitHub: https://github.com/rayssaokamura  
 
 ---
