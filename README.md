@@ -4,7 +4,7 @@
 
 ### 👥 Integrantes
 
-| Nome | Foto | GitHub |
+| Nome |  | GitHub |
 |------|------|--------|
 | Ana Beatriz Barreto Teixeira | <img src="https://github.com/anabeatrizbarretot.png" width="125"/> | https://github.com/anabeatrizbarretot |
 | Bruna Kaori Takuti | <img src="https://github.com/tkaoribruna.png" width="125"/> | https://github.com/tkaoribruna |
