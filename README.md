@@ -13,7 +13,6 @@
 * Maxine Lourenço da Silva
   - GitHub: https://github.com/okumurashy  
 * Rayssa da Silva Esparza Okamura
-  - ![205248509](https://github.com/user-attachments/assets/dd88ced6-3d85-461c-b2e4-c52ae458e00c)
   - GitHub: https://github.com/rayssaokamura  
 
 ---
@@ -30,7 +29,11 @@ O site apresenta os conteúdos de forma modular, cobrindo desde os conceitos mai
 
 ## 📂 Conteúdo do Repositório
 
-* 📘 **Requisitos Funcionais** — documentação com as principais funcionalidades planejadas e implementadas.
+* **Protótipo** - https://github.com/anabeatrizbarretoo/PRINTC-EC46C-2025-2/tree/main/Protótipos
+* **Requisitos de Sistema** - https://github.com/anabeatrizbarretoo/PRINTC-EC46C-2025-2/tree/main/Requisitos%20de%20Sistema
+* **Requisitos de Usuário** - https://github.com/anabeatrizbarretoo/PRINTC-EC46C-2025-2/tree/main/Requisitos%20de%20Usuario
+* **Descrição do projeto (readme.md)** - https://github.com/anabeatrizbarretoo/PRINTC-EC46C-2025-2/blob/main/README.md
+* **Integração Contínua (branch.md)** - https://github.com/anabeatrizbarretoo/PRINTC-EC46C-2025-2/blob/main/branch.md
 
 ---
 
