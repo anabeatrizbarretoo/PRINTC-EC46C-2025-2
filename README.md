@@ -4,11 +4,16 @@
 
 **Integrantes:**
 
-* Ana Beatriz Barreto Teixeira  
-* Bruna Kaori Takuti  
-* Daniel Durante Francisco Dias  
-* Maxine Lourenço da Silva  
-* Rayssa da Silva Esparza Okamura  
+* Ana Beatriz Barreto Teixeira
+  - GitHub: https://github.com/anabeatrizbarretot  
+* Bruna Kaori Takuti
+  - Github: https://github.com/tkaoribruna  
+* Daniel Durante Francisco Dias
+  - GitHub: https://github.com/Dandurant  
+* Maxine Lourenço da Silva
+  - GitHub: https://github.com/okumurashy  
+* Rayssa da Silva Esparza Okamura
+  - GitHub: https://github.com/rayssaokamura  
 
 ---
 
