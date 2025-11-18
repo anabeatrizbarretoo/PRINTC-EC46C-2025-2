@@ -32,6 +32,7 @@ O site apresenta os conteúdos de forma modular, cobrindo desde os conceitos mai
 * **Requisitos de Usuário** - https://github.com/anabeatrizbarretoo/PRINTC-EC46C-2025-2/tree/main/Requisitos%20de%20Usuario
 * **Descrição do projeto (readme.md)** - https://github.com/anabeatrizbarretoo/PRINTC-EC46C-2025-2/blob/main/README.md
 * **Integração Contínua (branch.md)** - https://github.com/anabeatrizbarretoo/PRINTC-EC46C-2025-2/blob/main/branch.md
+* **Vídeo do Projeto** - https://youtu.be/JZO4oy4fNTM
 
 ---
 
